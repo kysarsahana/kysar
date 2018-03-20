@@ -1,7 +1,7 @@
-n=int (input ("enter number ":))
-if (n <0):
- Print(num is positive )
-elif (n>0):
- print(num is negative)
+n=int (input ("enter number:"))
+if (n >0):
+ Print("positive")
+elif (n<0):
+ print("negative")
 else:
- print(num is zero)
+ print("zero")
